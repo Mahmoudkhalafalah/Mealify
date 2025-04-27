@@ -14,6 +14,7 @@
     /* Home Section */
     .home-section {
         padding-top:20px;
+        width: 100%;
     }
 
     .home-section .container {
